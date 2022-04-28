@@ -39,7 +39,7 @@ setCoreSetting('appVersion', '1.0.0');
     //
     const result = await evaEndpoint.callService(
       Core.Login,
-      { Username: 'stavros.temertzidis@cgi.com', Password: '@cgi.com', SelectFirstOrganizationUnit: 'true', 
+      { Username: 'user', Password: 'pass', SelectFirstOrganizationUnit: 'true', 
       PublicLogin: 'true'},
       { timeout: 10000 },
     );
