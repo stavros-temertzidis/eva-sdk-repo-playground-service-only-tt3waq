@@ -1,0 +1,18 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@springtree/eva-sdk-core-available-services": "^3.1.2",
+    "@springtree/eva-sdk-core-logger": "^1.1.2",
+    "@springtree/eva-sdk-core-service": "^3.3.5",
+    "@springtree/eva-sdk-core-settings": "^2.0.0",
+    "@springtree/eva-services-core": "^1.25.0",
+    "ky": "^0.28.5",
+    "ky-universal": "^0.9.1",
+    "pubsub-js": "^1.9.3",
+    "url-parse": "^1.5.1",
+    "uuid": "^8.3.2",
+    "web-streams-polyfill": "^3.1.0"
+  }
+}
